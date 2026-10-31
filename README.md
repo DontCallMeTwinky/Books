@@ -1,1 +1,1 @@
-a repository for all my books intended for physical publishing and distribution
+a repository for all my books that are intended for physical publishing and distribution
